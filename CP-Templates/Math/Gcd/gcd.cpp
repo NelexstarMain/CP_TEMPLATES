@@ -1,4 +1,4 @@
-#include <algorithm> 
+#include <algorithm> // dla std::swap
 
 int gcd(int a, int b) {
     while (b != 0) {
